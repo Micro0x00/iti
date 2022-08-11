@@ -1,1 +1,1 @@
-# status.squadcast.io
+# subdomain take over
