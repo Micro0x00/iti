@@ -1,5 +1,6 @@
 
 
+
 # hi geeks<img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/>
 
 ## ITI materials (Linux System Admin)
@@ -39,20 +40,48 @@ Datebase [link](https://drive.google.com/drive/folders/136jCVW9dISvw-SFjnRklPh1Y
 
 -----
 ## ITI , 52 Track materials OSD TRACK
-Mysql
-MongoDB
-Python 
-Ruby
-React Js
-Social Media api
-Software Engineering 
-Red Hat System Admin
-Markting
-English
-Design Partterns ,etc
+
+ - Mysql 
+ - MongoDB 
+ - Python  
+ - Ruby 
+ - React
+ - Js 
+ - Social Media 
+ - api 
+ - Software
+ -  Engineering 
+ - Red Hat System Admin
+ - Markting 
+ - English
+ - Design Partterns
+ - etc
+
 ![enter image description here](https://i.ibb.co/xFNjrVN/Screenshot-2022-10-15-042933.png)
 ![enter image description here](https://i.ibb.co/xGskTR7/Screenshot-2022-10-15-043107.png)
+-----
+## ITI ,DevOps Track
 
+ - Aws 
+ - Iot 
+ - Docker
+ -  cloud 
+ - Communication Skills
+ -  DataStructure 
+ - Kubernetes
+ - Mysql 
+ - Openshift 
+ - OS
+ -  Bash 
+ - Python
+ - Ruby 
+ - SWE
+ - More+
+
+[part1](https://onedrive.live.com/?authkey=%21ACDLDoMFwglt2E0&id=B65A41591FDE85C0%2119882&cid=B65A41591FDE85C0)
+[Part2](https://onedrive.live.com/?authkey=%21AK%5F0Bsy9ls3g8xg&id=B65A41591FDE85C0%2119883&cid=B65A41591FDE85C0)
+[Part3](https://onedrive.live.com/?authkey=%21AOMyhnPaeLbV2pM&id=B65A41591FDE85C0%2119884&cid=B65A41591FDE85C0)
+----
 حاليا بذاكر شوية حجات هكمل ريسرش عشان انا واثق اني هلاقي اكتر من كده بس تقريبا لكل المجلات 
 بالتوفيق ياشباب 
 ومتنساش تدعيلي لو دعوة بسيطة
