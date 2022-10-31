@@ -81,7 +81,12 @@ Datebase [link](https://drive.google.com/drive/folders/136jCVW9dISvw-SFjnRklPh1Y
 [part1](https://onedrive.live.com/?authkey=%21ACDLDoMFwglt2E0&id=B65A41591FDE85C0%2119882&cid=B65A41591FDE85C0)
 [Part2](https://onedrive.live.com/?authkey=%21AK%5F0Bsy9ls3g8xg&id=B65A41591FDE85C0%2119883&cid=B65A41591FDE85C0)
 [Part3](https://onedrive.live.com/?authkey=%21AOMyhnPaeLbV2pM&id=B65A41591FDE85C0%2119884&cid=B65A41591FDE85C0)
+
 ----
+## ITI,  Artificial Intelligence
+[Artificial Intelligence](https://onedrive.live.com/?authkey=%21AHTXkSLAxjV%5FjpA&id=B65A41591FDE85C0%214446&cid=B65A41591FDE85C0)
+## Full Stack .Net
+[Full Stack .Net ](https://mega.nz/folder/cLwmRBIY#fY_FDTPKkjD5odU-oQ4PBw/folder/ILoB2aCb)
 حاليا بذاكر شوية حجات هكمل ريسرش عشان انا واثق اني هلاقي اكتر من كده بس تقريبا لكل المجلات 
 بالتوفيق ياشباب 
 ومتنساش تدعيلي لو دعوة بسيطة
