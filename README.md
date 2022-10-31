@@ -10,7 +10,7 @@
 [Part 2](https://drive.google.com/drive/u/0/folders/1s4wQr5F-_5LDvEmVyq2IhWePvPi5bQtr)
 [Part 3](https://drive.google.com/drive/u/0/folders/16OeA2EXrrccQgztWSQO7nNsKGY42Ga7c)**
  system admin linux ده جزء الخاص ب 
-
+ وتقدر تاخد ccna من هنا [ccna](https://www.youtube.com/watch?v=IMwCOIwYDDM&list=PLyDiLBk6tDH48IAmjAfH8OhrIeTSf23id)
 
 _____
 ## ITI materials (ITI 3 Months - BI Track)
